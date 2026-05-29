@@ -5,7 +5,7 @@
 
 - 📱 Software Developer (Flutter)
 - 🧑‍💻I’m currently working on Flutter
-- 💻 I’m currently learning Node.js
+- 💻 I’m currently learning React & Node.js
 - 📫 How to reach me: ...
 - Facebook - [Subrato Basak](https://facebook.com/subrato.basak.96), 
 - Linkedin - [Subrato Basak](https://www.linkedin.com/in/subrato-basak53/)
